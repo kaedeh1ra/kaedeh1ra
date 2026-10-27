@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="384" viewBox="0 0 820 384">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#7F52FF"/><stop offset=".5" stop-color="#C711E1"/><stop offset="1" stop-color="#E44857"/>
+</linearGradient>
+</defs>
+<style>
+text{font-family:'JetBrains Mono',Consolas,'SF Mono',Menlo,monospace;font-size:16px}
+.cmd{fill:#e6e1ff}.dim{fill:#6e7681}.ok{fill:#a78bfa}.err{fill:#E44857}
+.red{fill:#C711E1}
+.title{fill:#6e7681;font-size:13px}
+.cursor{fill:#C711E1;animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@keyframes flicker{0%,100%{opacity:1}92%{opacity:1}93%{opacity:.3}94%{opacity:1}96%{opacity:.5}97%{opacity:1}}
+.glitch{animation:flicker 4s infinite}
+@keyframes l0{0%,3.75%{opacity:0}4.55%,93%{opacity:1}100%{opacity:0}}.l0{opacity:0;animation:l0 16.0s linear infinite}@keyframes l1{0%,11.88%{opacity:0}12.68%,93%{opacity:1}100%{opacity:0}}.l1{opacity:0;animation:l1 16.0s linear infinite}@keyframes l2{0%,20.00%{opacity:0}20.80%,93%{opacity:1}100%{opacity:0}}.l2{opacity:0;animation:l2 16.0s linear infinite}@keyframes l3{0%,28.12%{opacity:0}28.93%,93%{opacity:1}100%{opacity:0}}.l3{opacity:0;animation:l3 16.0s linear infinite}@keyframes l4{0%,36.25%{opacity:0}37.05%,93%{opacity:1}100%{opacity:0}}.l4{opacity:0;animation:l4 16.0s linear infinite}@keyframes l5{0%,44.38%{opacity:0}45.17%,93%{opacity:1}100%{opacity:0}}.l5{opacity:0;animation:l5 16.0s linear infinite}@keyframes l6{0%,52.50%{opacity:0}53.30%,93%{opacity:1}100%{opacity:0}}.l6{opacity:0;animation:l6 16.0s linear infinite}@keyframes l7{0%,60.62%{opacity:0}61.42%,93%{opacity:1}100%{opacity:0}}.l7{opacity:0;animation:l7 16.0s linear infinite}@keyframes l8{0%,68.75%{opacity:0}69.55%,93%{opacity:1}100%{opacity:0}}.l8{opacity:0;animation:l8 16.0s linear infinite}@keyframes l9{0%,76.88%{opacity:0}77.67%,93%{opacity:1}100%{opacity:0}}.l9{opacity:0;animation:l9 16.0s linear infinite}
+</style>
+<rect x="1" y="1" width="818" height="382" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="1" width="818" height="3" rx="1.5" fill="url(#g)"/>
+<circle cx="28" cy="32" r="6" fill="#7F52FF"/><circle cx="48" cy="32" r="6" fill="#C711E1"/><circle cx="68" cy="32" r="6" fill="#E44857"/>
+<text class="title" x="410.0" y="37" text-anchor="middle">stranger@kaedeh1ra: ~</text>
+<line x1="1" y1="56" x2="819" y2="56" stroke="#21262d"/>
+<g class="glitch">
+<text class="l0 cmd" x="36" y="92" xml:space="preserve">$ ssh stranger@kaedeh1ra</text>
+<text class="l1 dim" x="36" y="118" xml:space="preserve">connecting through the dark...</text>
+<text class="l2 ok" x="36" y="144" xml:space="preserve">access granted. welcome, stranger.</text>
+<text class="l3 cmd" x="36" y="170" xml:space="preserve">$ ls ~/projects</text>
+<text class="l4 err" x="36" y="196" xml:space="preserve">ls: cannot open '~/projects': Permission denied</text>
+<text class="l5 cmd" x="36" y="222" xml:space="preserve">$ cat ~/.plan</text>
+<text class="l6 red" x="36" y="248" xml:space="preserve">██████ ███ ████████ ██ ███ ██████</text>
+<text class="l7 cmd" x="36" y="274" xml:space="preserve">$ echo $NEXT_RELEASE</text>
+<text class="l8 dim" x="36" y="300" xml:space="preserve">null</text>
+<g class="l9"><text class="cmd" x="36" y="326">$</text><rect class="cursor" x="56" y="311" width="10" height="19"/></g>
+</g>
+</svg>

@@ -4,7 +4,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=C711E1&center=true&vCenter=true&width=560&lines=Hello%2C+stranger.;I+write+Kotlin+after+dark.;Building+things+you+haven%27t+seen+yet...;%2F%2F+TODO%3A+reveal+more" alt="typing" />
 
+<br /><br />
+
+<img src="assets/terminal.svg" width="100%" alt="terminal" />
+
 </div>
+
+<br />
+
+> *Some code is written to be shown.*
+> *Mine is written to be found.*
 
 <br />
 
@@ -13,7 +22,10 @@ object Kaedeh1ra {
     val role = "Android developer"
     val language = "Kotlin"
     val status = "building in silence"
+    val location = "¯\\_(ツ)_/¯"
     val nextRelease = null // you'll know when you see it
+
+    fun reveal(): Nothing = throw AccessDeniedException("not yet")
 }
 ```
 
@@ -30,6 +42,29 @@ object Kaedeh1ra {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaedeh1ra/kaedeh1ra/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/kaedeh1ra/kaedeh1ra/output/github-snake.svg" width="100%" alt="snake" />
 </picture>
+
+</div>
+
+<br />
+
+<details>
+<summary><sub>⚠ do not open</sub></summary>
+
+<br />
+
+```text
+eW91IGZvdW5kIG1lLiBrZWVwIGl0IHNlY3JldC4=
+```
+
+<sub><i>you know what to do with it.</i></sub>
+
+</details>
+
+<br />
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kaedeh1ra&label=strangers%20passed%20by&color=7F52FF&style=flat-square" alt="visitors" />
 
 <br />
 
