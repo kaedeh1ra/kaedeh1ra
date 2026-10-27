@@ -1,12 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7F52FF,50:C711E1,100:E44857&text=kaedeh1ra&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=%2F%2F%20somewhere%20between%20the%20lines%20of%20code&descAlignY=58&descSize=18" width="100%" alt="kaedeh1ra" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=C711E1&center=true&vCenter=true&width=560&lines=Hello%2C+stranger.;I+write+Kotlin+after+dark.;Building+things+you+haven%27t+seen+yet...;%2F%2F+TODO%3A+reveal+more" alt="typing" />
+<img src="assets/terminal.svg" width="100%" alt="kaedeh1ra" />
 
 <br /><br />
 
-<img src="assets/terminal.svg" width="100%" alt="terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=C711E1&center=true&vCenter=true&width=560&lines=Hello%2C+stranger.;I+write+Kotlin+after+dark.;Building+things+you+haven%27t+seen+yet...;%2F%2F+TODO%3A+reveal+more" alt="typing" />
 
 </div>
 
@@ -44,21 +42,6 @@ object Kaedeh1ra {
 </picture>
 
 </div>
-
-<br />
-
-<details>
-<summary><sub>⚠ do not open</sub></summary>
-
-<br />
-
-```text
-eW91IGZvdW5kIG1lLiBrZWVwIGl0IHNlY3JldC4=
-```
-
-<sub><i>you know what to do with it.</i></sub>
-
-</details>
 
 <br />
 
